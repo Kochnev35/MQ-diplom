@@ -695,23 +695,23 @@ body {
 }
 
 .social_twitter {
-  background-image: url(../svg/004-twitter.svg);
+  background-image: url(./svg/004-twitter.svg);
 }
 
 .social_pinterest {
-  background-image: url(../svg/001-pinterest.svg);
+  background-image: url(./svg/001-pinterest.svg);
 }
 
 .social_facebook {
-  background-image: url(../svg/002-facebook-logo.svg);
+  background-image: url(./svg/002-facebook-logo.svg);
 }
 
 .social_instagram {
-  background-image: url(../svg/005-instagram.svg);
+  background-image: url(./svg/005-instagram.svg);
 }
 
 .social_tumblr {
-  background-image: url(../svg/003-tumblr.svg);
+  background-image: url(./svg/003-tumblr.svg);
 }
 
 /* pop-up */
@@ -733,7 +733,7 @@ body {
 .form-select {
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url("../svg/form-arrows.svg");
+  background-image: url("./svg/form-arrows.svg");
   background-repeat: no-repeat;
   background-position: right 5px center;
   background-size: 8px;
@@ -754,14 +754,14 @@ body {
   height: 20px;
   margin-right: 5px;
   vertical-align: text-bottom;
-  background-image: url(../svg/form-empty-circle.svg);
+  background-image: url(./svg/form-empty-circle.svg);
   background-repeat: no-repeat;
   background-size: 18px;
   background-position: center;
 }
 
 .radio:checked ~ .radio-group-text::before {
-  background-image: url(../svg/form-circle.svg);
+  background-image: url(./svg/form-circle.svg);
 }
 
 .pop-up {
